@@ -1,5 +1,3 @@
-pm uninstall -k --user 0
-
 # DirectTV
 pm uninstall -k --user 0 com.directv.promo.shade
 pm uninstall -k --user 0package:com.directv.dvrscheduler
