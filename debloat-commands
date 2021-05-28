@@ -60,3 +60,6 @@ pm uninstall -k --user 0 com.att.myWireless
 pm uninstall -k --user 0 com.aetherpal.attdh.se   # AT&T Backdoor ("smart remote control" software)
 pm uninstall -k --user 0 com.synchronoss.dcs.att.r2g
 pm uninstall -k --user 0 com.att.iqi
+
+# Fix the Samsung rom freaking out
+pm uninstall -k --user 0 com.sec.epdg
